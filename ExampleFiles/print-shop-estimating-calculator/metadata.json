@@ -1,0 +1,5 @@
+{
+  "name": "Print Shop Estimating Calculator",
+  "description": "An advanced calculator to estimate the cost of print jobs, including paper, clicks, labor, and markup. Users can specify job dimensions, page count, paper types for interiors and covers, and finishing details to get a comprehensive price breakdown.",
+  "requestFramePermissions": []
+}
